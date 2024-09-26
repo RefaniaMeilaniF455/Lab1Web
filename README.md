@@ -20,8 +20,11 @@
 6. Mengubah paragraf dengan tag <align=right (untuk merata kanankan paragraf)
 ![Screenshot 2024-09-25 175604](https://github.com/user-attachments/assets/cb41268f-ed64-4229-bb41-ca8830ad02d8)
 
-7. Membuat Judul Kedua dengan tag <h2 diakhiri dengan tag</h2
-![Screenshot 2024-09-25 193352](https://github.com/user-attachments/assets/3d9f0105-cf8c-4cbe-8d3a-6ab72cb54743)
+7. Mengubah warna pada kata tertentu dengan tag <mark dan diakhiri dengan tag </mark, kemudia membuat kalimat miring dengan tag <i diakhiri dengan tag</i, dan membuat garis bawah dengan tag<u diakhiri dengan</u
+![Screenshot 2024-09-25 193004](https://github.com/user-attachments/assets/5241de2d-daec-4800-8119-b51a5195de9f)
+
+
+8. 
 
 
 
