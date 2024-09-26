@@ -45,6 +45,32 @@
 15. Kemudian menambahkan isi tampilan dari "Halaman 2"
 ![Screenshot 2024-09-26 193734](https://github.com/user-attachments/assets/1653dfbd-9a62-4ae0-b13b-3c75d3cc0900)
 
+# SOAL 2
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
+error ketika terjadi kesalahan penulisan tag?
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+#JAWAB
+1. Pada saat saya mulai melakukan coding pada VSC dengan tag tag html tidak ada sedikit pun terjadi eror.
+2. perbedaan dari <p> dengan <br> adalah:
+   tag <p> = digunakan untuk membuat suatu paragraf
+   tag <br> = digunakan untuk membuat baris baru pada paragraf/kalimat
+3. perbedaan atribut title dan alt pada tag <img> adalah
+   alt = digunakan untuk mendeskripsikan elemen visual kepada pengguna yang tidak dapat melihatnya
+   title = untuk memberikan informasi tambahan atau detail konteks pada gambar bagi pengguna yang dapat berinteraksi dengan kursor.
+4. saya menggunakan atribut widht pada saat menambahkan gambar untuk mengatur besar kecilnya gambar, sebenarnya hampir sama dengan height,
+   namun dapat digunakan sesuai kebutuhan.
+5. _blank: Membuka tautan di tab atau jendela baru 
+_self: Membuka tautan di frame atau jendela yang sama. Ini adalah nilai default dan biasanya tidak perlu ditentukan 
+_parent: Membuka tautan di frame induk 
+_top: Membuka tautan di seluruh jendela
+   
+
 
 
 
