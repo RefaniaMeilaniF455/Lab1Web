@@ -13,7 +13,8 @@ Kemudian dirapihkan menggunakan tag <br diakhiri dengan </br
 ![Screenshot 2024-09-25 170245](https://github.com/user-attachments/assets/b1a6686d-044c-414b-ae19-d897a07f200e)
 
 Mengubah macam-macam paragraf dengan tag :
-<p align=>
+<p align="center"> diakhiri dengan </p
+![Screenshot 2024-09-25 175351](https://github.com/user-attachments/assets/5b99ae62-6168-4dcf-9f4a-c7c954a58aa8)
 
 Membuat Judul Kedua dengan tag <h2 diakhiri dengan </h2
 ![Screenshot 2024-09-25 193352](https://github.com/user-attachments/assets/3d9f0105-cf8c-4cbe-8d3a-6ab72cb54743)
