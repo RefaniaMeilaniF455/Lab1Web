@@ -30,8 +30,8 @@
 9. Membuat paragraf kedua seteleh judul dengan tag <p diakhiri dengan tag</p
 ![Screenshot 2024-09-25 194202](https://github.com/user-attachments/assets/965fa3b2-b74e-45c2-861c-0c51ffa2ed0b)
 
-10. Membuat judul "Menambhakan Gambar" dnegan ukuran lebih kecil dari ukuran judul 1&2 dengan tag <h3 diakhiri dengan </h3
-![Screenshot 2024-09-25 194202](https://github.com/user-attachments/assets/0823fe0e-050a-48f5-9f30-9cf87cff838a)
+10. Membuat judul "Menambhakan Gambar" dengan ukuran lebih kecil dari ukuran judul 1&2 dengan tag <h3 diakhiri dengan </h3
+![image](https://github.com/user-attachments/assets/f2bdf34b-5933-44ed-bcc0-32291cfe70fc)
 
 11. Menambahkan gambar/logo Universitas Pelita Bangsa dengan tag <img src="upb.png width="250" title="Logo Universitas Pelita Bangsa"
 ![Screenshot 2024-09-25 195025](https://github.com/user-attachments/assets/00f753ca-da68-4682-a50d-53ed7d1ca852)
