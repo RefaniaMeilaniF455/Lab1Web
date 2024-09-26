@@ -22,5 +22,11 @@
 
     <h3>Menambahkan Gambar</h3>
        <img src="upb.png" width="250" title="Logo Universitas Pelita Bangsa"> 
+    <nav>
+        <a href="lab1_tag_dasar.html" target="_self">SELF</a>
+        <a href="lab1_tag_dasar.html" target="_blank">BLANK</a>
+        <a href="lab1_tag_dasar.html" target="_top">TOP</a>
+        <a href="lab1_tag_dasar.html" target="_parent">PARENT</a>
+    </nav>
 </html>
        </body>
