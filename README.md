@@ -4,7 +4,7 @@
 Membuat Judul tag dengan tag <title dan di akhiri dengan </title
 ![Screenshot 2024-09-25 172508](https://github.com/user-attachments/assets/c5cf3aa5-78c2-4686-b6be-fc7afa0f47ae)
 
-Membuat Judul baru "Belajar Dasar HTML"dengan tag <h1 diakhiri dengan </h1
+Membuat Judul 1"Belajar Dasar HTML"dengan tag <h1 diakhiri dengan </h1
 ![Screenshot 2024-09-25 172736](https://github.com/user-attachments/assets/637fbadc-8422-4fbf-9e8b-9ea4c6bcba9f)
 
 Membuat paragraf baru dengan tag <p diakhiri dengan </p
