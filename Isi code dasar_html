@@ -1,0 +1,12 @@
+<!DOCTYPE html> <!--Membuat isi pada halaman lab1._tag_dasar-->>
+<html>
+<head>
+
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+    <h1>Pengertian HTML</h1>
+    <p>HTML adalah bahasa yang digunakan untuk membuat halaman web dan menampilkan nya di browser internet<br>
+        HTML merupakan kepanjangan dari <b>Hypertxt Markup Languange.</b></p>
+</html>
+       </body>
