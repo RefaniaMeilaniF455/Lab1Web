@@ -9,12 +9,14 @@ Membuat Judul 1"Belajar Dasar HTML"dengan tag <h1 diakhiri dengan </h1
 
 Membuat paragraf baru dengan tag <p diakhiri dengan </p
 ![Screenshot 2024-09-25 173655](https://github.com/user-attachments/assets/d05f6e32-587c-4f60-a413-172a4b875098)
+
 Kemudian dirapihkan menggunakan tag <br diakhiri dengan </br
 ![Screenshot 2024-09-25 170245](https://github.com/user-attachments/assets/b1a6686d-044c-414b-ae19-d897a07f200e)
 
 Mengubah macam-macam paragraf dengan tag <align=center
 ![Screenshot 2024-09-25 175351](https://github.com/user-attachments/assets/d2e997e5-616b-4d4e-89cd-4b4989173987)
 ini untuk menengahkan paragraf
+
 Mengubah paragraf dengan tag <align=right
 ![Screenshot 2024-09-25 175604](https://github.com/user-attachments/assets/cb41268f-ed64-4229-bb41-ca8830ad02d8)
 ini untuk merata kanankan paragraf
