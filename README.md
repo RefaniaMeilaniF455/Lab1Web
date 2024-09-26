@@ -39,6 +39,14 @@
 12. Membuat Hyperlink diawalin dengan tag <nav kemudian <p, <href diakhiri dengan </p
 ![Screenshot 2024-09-26 151929](https://github.com/user-attachments/assets/af3a07d3-4cb2-421f-a580-2537b1974461)
 
+14. Mengisi dalaman Link "Dasar HTML"
+![Screenshot 2024-09-26 193433](https://github.com/user-attachments/assets/e3dfeb0d-a814-4038-a0db-f3c5478b19bc)
+
+15. Kemudian menambahkan isi tampilan dari "Halaman 2"
+![Screenshot 2024-09-26 193734](https://github.com/user-attachments/assets/1653dfbd-9a62-4ae0-b13b-3c75d3cc0900)
+
+
+
 
 
 
