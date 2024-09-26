@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+    <nav>
+        <a href="lab1_tag_dasar.html">Dasar Html</a>
+        <a href="lab1_halaman2.html">Halaman 2</a>
+        <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>  
+         <hr>
+    <h1>Belajar Dasar HTML</h1>
+       <p>Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah Pemograman Web di <i>Prodi<br>
+    Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat<br>
+    adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+
+    <h2>Paragraf pada HTML</h2>
+       <p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling<br> 
+        mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag<br>
+         dasar HTML.</p>
+
+    <h3>Menambahkan Gambar</h3>
+       <img src="upb.png" width="250" title="Logo Universitas Pelita Bangsa"> 
+    <nav>
+        <a href="lab1_tag_dasar.html" target="_self">SELF</a>
+        <a href="lab1_tag_dasar.html" target="_blank">BLANK</a>
+        <a href="lab1_tag_dasar.html" target="_top">TOP</a>
+        <a href="lab1_tag_dasar.html" target="_parent">PARENT</a>
+    </nav>
+</html>
+       </body>
+
+
+<!DOCTYPE html> <!--Membuat isi pada halaman lab1._tag_dasar-->>
+<html>
+<head>
+
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+    <h1>Pengertian HTML</h1>
+    <p>HTML adalah bahasa yang digunakan untuk membuat halaman web dan menampilkan nya di browser internet<br>
+        HTML merupakan kepanjangan dari <b>Hypertxt Markup Languange.</b></p>
+</html>
+       </body>
+
+
+<!DOCTYPE html> <!--Membuat isi pada halaman2-->>
+<html>
+<head>
+    <title>Noted</title>
+</head>
+<body> 
+    <h1 align="center">Tag Dalam HTML</h1>
+       <h4>Ada banyak tag-tag dalam HTML diantaranya sebagai berikut: <br></h4>
+    1. !DOCTYPE : Tag untuk menentukan tipe dokumen<br>
+    2. html : Tag untuk membuat sebuah dokumen HTML<br>
+    3. title: Tag untuk membuat judul dari sebuah halaman<br>
+    4. body: Tag untuk membuat tubuh dari sebuah halaman<br>
+    5. h1-h6 : Tag untuk membuat heading<br>
+    6. p : Tag untuk membuat paragraf<br>
+    7. br : Memasukan satu baris putus<br>
+    8. hr : Tag untuk membuat perubahan dasar kata didalam isi<br>
+    9. img : Tag untuk membuat gambar<br>
+    10. video : Tag untuk membuat sebuah video atau film(tag baru HTML5)<br>
+</html>
+       </body>
