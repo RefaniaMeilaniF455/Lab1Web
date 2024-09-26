@@ -48,7 +48,7 @@
 # SOAL 2
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag <p dengan tag <br, berikan penjelasannya!
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
@@ -57,10 +57,10 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 #JAWAB
 1. Pada saat saya mulai melakukan coding pada VSC dengan tag tag html tidak ada sedikit pun terjadi eror.
-2. perbedaan dari <p> dengan <br> adalah:
-   tag <p> = digunakan untuk membuat suatu paragraf
-   tag <br> = digunakan untuk membuat baris baru pada paragraf/kalimat
-3. perbedaan atribut title dan alt pada tag <img> adalah
+2. perbedaan dari <p dengan <br adalah:
+   tag <p = digunakan untuk membuat suatu paragraf
+   tag <br = digunakan untuk membuat baris baru pada paragraf/kalimat
+3. perbedaan atribut title dan alt pada tag <img adalah
    alt = digunakan untuk mendeskripsikan elemen visual kepada pengguna yang tidak dapat melihatnya
    title = untuk memberikan informasi tambahan atau detail konteks pada gambar bagi pengguna yang dapat berinteraksi dengan kursor.
 4. saya menggunakan atribut widht pada saat menambahkan gambar untuk mengatur besar kecilnya gambar, sebenarnya hampir sama dengan height,
