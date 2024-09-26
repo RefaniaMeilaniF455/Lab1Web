@@ -58,10 +58,10 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 #JAWAB
 1. Pada saat saya mulai melakukan coding pada VSC dengan tag tag html tidak ada sedikit pun terjadi eror.
 2. perbedaan dari <p dengan <br adalah:
-   tag <p = digunakan untuk membuat suatu paragraf
+   tag <p = digunakan untuk membuat suatu paragraf,
    tag <br = digunakan untuk membuat baris baru pada paragraf/kalimat
 3. perbedaan atribut title dan alt pada tag <img adalah
-   alt = digunakan untuk mendeskripsikan elemen visual kepada pengguna yang tidak dapat melihatnya
+   alt = digunakan untuk mendeskripsikan elemen visual kepada pengguna yang tidak dapat melihatnya,
    title = untuk memberikan informasi tambahan atau detail konteks pada gambar bagi pengguna yang dapat berinteraksi dengan kursor.
 4. saya menggunakan atribut widht pada saat menambahkan gambar untuk mengatur besar kecilnya gambar, sebenarnya hampir sama dengan height,
    namun dapat digunakan sesuai kebutuhan.
