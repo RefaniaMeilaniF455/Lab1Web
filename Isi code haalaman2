@@ -1,0 +1,20 @@
+<!DOCTYPE html> <!--Membuat isi pada halaman2-->>
+<html>
+<head>
+    <title>Noted</title>
+</head>
+<body> 
+    <h1 align="center">Tag Dalam HTML</h1>
+       <h4>Ada banyak tag-tag dalam HTML diantaranya sebagai berikut: <br></h4>
+    1. !DOCTYPE : Tag untuk menentukan tipe dokumen<br>
+    2. html : Tag untuk membuat sebuah dokumen HTML<br>
+    3. title: Tag untuk membuat judul dari sebuah halaman<br>
+    4. body: Tag untuk membuat tubuh dari sebuah halaman<br>
+    5. h1-h6 : Tag untuk membuat heading<br>
+    6. p : Tag untuk membuat paragraf<br>
+    7. br : Memasukan satu baris putus<br>
+    8. hr : Tag untuk membuat perubahan dasar kata didalam isi<br>
+    9. img : Tag untuk membuat gambar<br>
+    10. video : Tag untuk membuat sebuah video atau film(tag baru HTML5)<br>
+</html>
+       </body>
