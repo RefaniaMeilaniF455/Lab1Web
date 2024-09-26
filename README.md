@@ -45,6 +45,11 @@
 15. Kemudian menambahkan isi tampilan dari "Halaman 2"
 ![Screenshot 2024-09-26 193734](https://github.com/user-attachments/assets/1653dfbd-9a62-4ae0-b13b-3c75d3cc0900)
 
+16. Ini adalah tampilan pada saat saya membuat atribut tambahan ( _blank, _self, _top,
+_parent )
+![Screenshot 2024-09-26 201900](https://github.com/user-attachments/assets/9602e59d-eebb-4250-ac89-baead60c9397)
+
+
 # SOAL 2
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
