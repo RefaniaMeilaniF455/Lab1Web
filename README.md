@@ -65,10 +65,10 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
    title = untuk memberikan informasi tambahan atau detail konteks pada gambar bagi pengguna yang dapat berinteraksi dengan kursor.
 4. saya menggunakan atribut widht pada saat menambahkan gambar untuk mengatur besar kecilnya gambar, sebenarnya hampir sama dengan height,
    namun dapat digunakan sesuai kebutuhan.
-5. _blank: Membuka tautan di tab atau jendela baru 
-_self: Membuka tautan di frame atau jendela yang sama. Ini adalah nilai default dan biasanya tidak perlu ditentukan 
-_parent: Membuka tautan di frame induk 
-_top: Membuka tautan di seluruh jendela
+5. _blank: Membuka tautan di tab atau jendela baru, 
+_self: Membuka tautan di frame atau jendela yang sama. Ini adalah nilai default dan biasanya tidak perlu ditentukan, 
+_parent: Membuka tautan di frame induk,
+_top: Membuka tautan di seluruh jendela,
    
 
 
