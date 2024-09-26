@@ -36,7 +36,9 @@
 11. Menambahkan gambar/logo Universitas Pelita Bangsa dengan tag <img src="upb.png width="250" title="Logo Universitas Pelita Bangsa"
 ![Screenshot 2024-09-25 195025](https://github.com/user-attachments/assets/00f753ca-da68-4682-a50d-53ed7d1ca852)
 
-12. 
+12. Membuat Hyperlink diawalin dengan tag <nav kemudian <p, <href diakhiri dengan </p
+![Screenshot 2024-09-26 151929](https://github.com/user-attachments/assets/af3a07d3-4cb2-421f-a580-2537b1974461)
+
 
 
 
