@@ -15,6 +15,10 @@ Kemudian dirapihkan menggunakan tag <br diakhiri dengan </br
 Mengubah macam-macam paragraf dengan tag <align=center
 ![Screenshot 2024-09-25 175351](https://github.com/user-attachments/assets/d2e997e5-616b-4d4e-89cd-4b4989173987)
 ini untuk menengahkan paragraf
+Mengubah paragraf dengan tag <align=right
+![Screenshot 2024-09-25 175604](https://github.com/user-attachments/assets/cb41268f-ed64-4229-bb41-ca8830ad02d8)
+ini untuk merata kanankan paragraf
+
 
 
 
